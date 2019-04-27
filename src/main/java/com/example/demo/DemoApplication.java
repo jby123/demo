@@ -14,7 +14,7 @@ public class DemoApplication {
     }
     @RequestMapping("test")
     public String op(){
-        return "heelo123456";
+        return "hello word!";
     }
 
 }
